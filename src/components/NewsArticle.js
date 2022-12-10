@@ -1,7 +1,7 @@
 import { Component } from "react";
 import { Card, Col } from "react-bootstrap";
 
-export class NewsArticles extends Component {
+export class NewsArticle extends Component {
     constructor() {
         super();
     }
